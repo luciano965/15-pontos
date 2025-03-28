@@ -1,0 +1,42 @@
+body{
+    background-color: #090f0f;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 0 24px;
+}
+
+.texto_um{
+    color: #19269c;
+    font-size: 24px;
+}
+
+.texto_dois{
+    color: #440dac;
+    font-size: 24px;
+}
+
+.paragrafo{
+    font-size: 20px;
+}
+
+.rodape{
+    text-align: center;
+    display: grid;
+    font-size: 18px;
+    color: black;
+}
+.imagem{
+   width: 40%; 
+}
+
+.imagem{
+    width: 40%;
+
+}
+
+
+.linha{
+    border-bottom: 1px solid #808080;
+    border-top: 1px solid #808080;
+}
